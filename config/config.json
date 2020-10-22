@@ -1,0 +1,9 @@
+ {
+  "development": {
+    "username": "postgres",
+    "password": "123456fd",
+    "database": "Api_SmartStock",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
